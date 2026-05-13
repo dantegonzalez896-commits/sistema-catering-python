@@ -19,3 +19,6 @@ Sistema desarrollado en Python enfocado en la administración de pedidos y gesti
    `pip install -r requirements.txt`
 3. Ejecutar el archivo principal del sistema:
    `python main.py`
+
+## Funcionamiento
+Para un correcto funcionamiento, es necesario tener el programa Excel, ésto, ya que se cuenta con una opción a exportar a dicho programa.
